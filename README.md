@@ -1,1 +1,1 @@
-# Excel
+The basics were taught in the Microsoft Excel course to ensure that there was a base level understanding of Excel. Things like formulas, graphs, charts, and formatting were all learned over the duration of this course. This course set up and supported what was taught in future courses.
